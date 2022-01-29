@@ -1,0 +1,6 @@
+Nesta aula será demontrado como será todo o processo a partir daqui até a etapa de uma possível contratação.
+Também será explicado como o Bootcamp é dividido:
+- Cursos;
+- Mentorias;
+- Projetos;
+- Desafios de Código.
